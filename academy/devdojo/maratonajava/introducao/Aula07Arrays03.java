@@ -10,4 +10,3 @@ public class Aula07Arrays03 {
         }
     }
 }
-//Foreach (for int num : numeros2) serve para percorrer cada valor do nosso Array.
