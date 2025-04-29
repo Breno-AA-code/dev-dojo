@@ -9,11 +9,3 @@ public class Aula4OpTernario {
         System.out.println(resultado);
     }
 }
-
-
-/*
-    Operador ternário é dividido em 3 partes, a primeira é condição
-String opTernario = condição ? verdadeiro : falso;
-note que o operador ternário poderia ser utilizado diretamente no System.out.println
-porém não é recomendado pois pode gerar muita confusão no código.
-o operador ternário é ÓTIMO para substituir if else simples.*/
