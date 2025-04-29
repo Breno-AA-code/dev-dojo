@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 import java.util.Scanner;
 
-// imprimir números pares até 10.000
+
 public class Aula6ex {
     public static void main(String[] args) {
 
