@@ -17,7 +17,7 @@ public class Calculadora {
         int multiplicacao = num1 * num2;
         System.out.println(multiplicacao);
     }
-    //NOTE: O RETORNO NÃO EXISTE, NÃO PODEMOS CHAMAR ELE EM UM SOUT, POR EXAMPLO.
+  
 
     public double divideDoisNumeros (double num1, double num2){
         if(num2 == 0){
@@ -33,9 +33,6 @@ public class Calculadora {
         return 0;
     }
 
-        // O RETURN PARA O CÓDIGO.
-        // PODEMOS USAR O RETURN EM MÉTODOS VOID TAMBÉM, UTILIZAMOS RETURN; PARA QUEBRAR UM CÓDIGO.
-        // EXEMPLO:
 
     public void divideDoisNumeros3 (double num1, double num2){
         if(num2 == 0){
